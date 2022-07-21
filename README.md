@@ -1,4 +1,4 @@
-# Builder webpack
+# Builder webpack (https://app.travis-ci.com/TaylorDurden/builder-webpack.svg?branch=main)
 
 ![功能模块设计](http://rf0q9h2rh.hn-bkt.clouddn.com/webpack-general-design.PNG)
 
